@@ -1,0 +1,8 @@
+1)  Scope refers to where variables can be accessed throughout the program, and is determined by where and how they are declared.
+2)  Blocks are statements that exist within curly braces {}.
+3)  Global scope refers to the context within which variables are accessible to every part of the program.
+5)  Global variables are variables that exist within global scope.
+6)  Block scope refers to the context within which variables are accessible only within the block they are defined.
+7)  Local variables are variables that exist within block scope.
+8)  Global namespace is the space in our code that contains globally scoped information.
+9)  Scope pollution is when too many variables exist in a namespace or variable names are reused.

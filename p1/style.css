@@ -1,0 +1,15 @@
+.date{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    padding: 10%;
+}
+
+#date{
+    border: 2px solid red;
+    border-radius: 20vh;
+    background-color: white;
+    color: black;
+    text-align: center;
+}

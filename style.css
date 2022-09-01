@@ -1,0 +1,10 @@
+button{
+    padding: 10px
+}
+#displayNum{
+    font-size: 200px;
+}
+.counterProgram{
+    display: block;
+    text-align: center;
+}
